@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data**
-> 🏆 129 Contributions in the Year 2021
+> 🏆 130 Contributions in the Year 2021
  >
 > 📦 package 8.76 MB Used in Github's Storage
  >
@@ -13,21 +13,21 @@
 
 **📅 I'm Most Productive on Friday**
 ```text
-Monday		13 commits	####---------------------	16.46%
-Tuesday		17 commits	#####--------------------	21.52%
-Wednesday	7 commits	##-----------------------	8.86%
-Thursday	9 commits	##-----------------------	11.39%
-Friday		21 commits	######-------------------	26.58%
-Saturday	7 commits	##-----------------------	8.86%
-Sunday		5 commits	#------------------------	6.33%
+Monday		13 commits	####---------------------	16.25%
+Tuesday		17 commits	#####--------------------	21.25%
+Wednesday	7 commits	##-----------------------	8.75%
+Thursday	9 commits	##-----------------------	11.25%
+Friday		21 commits	######-------------------	26.25%
+Saturday	8 commits	##-----------------------	10.00%
+Sunday		5 commits	#------------------------	6.25%
 ```
 
 **I'm an Early 🐤** 
 ```text
-Morning		21 commits	######-------------------	26.58%
-Daytime		39 commits	############-------------	49.37%
-Evening		1 commits	-------------------------	1.27%
-Night		18 commits	#####--------------------	22.78%
+Morning		21 commits	######-------------------	26.25%
+Daytime		39 commits	############-------------	48.75%
+Evening		1 commits	-------------------------	1.25%
+Night		19 commits	#####--------------------	23.75%
 ```
 
 **❤ I Mostly Code in Go**
