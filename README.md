@@ -1,4 +1,3 @@
-This is a test line.
 <!--START_SECTION:waka-->
 **🐱 My Github Data**
 > 🏆 142 Contributions in the Year 2021
