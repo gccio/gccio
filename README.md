@@ -11,6 +11,14 @@
 > 🔑 5 Pirvate Repositories
  >
 
+**I'm an Early 🐤** 
+```text
+Morning		21 commits	######-------------------	26.25%
+Daytime		39 commits	############-------------	48.75%
+Evening		1 commits	-------------------------	1.25%
+Night		19 commits	#####--------------------	23.75%
+```
+
 **📅 I'm Most Productive on Friday**
 ```text
 Monday		13 commits	####---------------------	16.25%
@@ -22,13 +30,21 @@ Saturday	8 commits	##-----------------------	10.00%
 Sunday		5 commits	#------------------------	6.25%
 ```
 
-**I'm an Early 🐤** 
 ```text
-Morning		21 commits	######-------------------	26.25%
-Daytime		39 commits	############-------------	48.75%
-Evening		1 commits	-------------------------	1.25%
-Night		19 commits	#####--------------------	23.75%
+R-Trello	0 commits	-------------------------	0.00%
+dotfiles	1 commits	-------------------------	1.25%
+event-manager	0 commits	-------------------------	0.00%
+gccio		39 commits	############-------------	48.75%
+gccio.github.io	1 commits	-------------------------	1.25%
+go-proxy	2 commits	-------------------------	2.50%
+golimiter	5 commits	#------------------------	6.25%
+grpc-like	2 commits	-------------------------	2.50%
+important	12 commits	###----------------------	15.00%
+k8s-schedule...	1 commits	-------------------------	1.25%
+redis-electr...	11 commits	###----------------------	13.75%
+wakatime-rea...	6 commits	#------------------------	7.50%
 ```
+
 
 **❤ I Mostly Code in Go**
 
