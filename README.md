@@ -47,8 +47,4 @@ Other		3 repos		######-------------------	25.00%
 Shell		1 repos		##-----------------------	8.33%
 ```
 
-**📊 This Week I Spent My Time On**
-```text
-```
-
 <!--END_SECTION:waka-->
