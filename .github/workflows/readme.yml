@@ -9,10 +9,12 @@ jobs:
     name: Update Readme
     runs-on: ubuntu-20.04
     steps:
-      - uses: gccio/pretty-profile-readme@v1.0.0
+      - name: Set Timezone
+        uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "Asia/Shanghai"
+      - name: Generate README
+        uses: gccio/pretty-profile-readme@v1.0.0
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        with:
-          timezoneLinux: "Asia/Shanghai"
-          
