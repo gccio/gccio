@@ -2,7 +2,7 @@
 **🐱 My Github Data**
 > 🏆 140 Contributions in the Year 2021
  >
-> 📦 package 434.29 MB Used in Github's Storage
+> 📦 package 5625.00 MB Used in Github's Storage
  >
 > 🚫 Not Opted to Hire
  >
