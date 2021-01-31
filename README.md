@@ -2,13 +2,13 @@
 **🐱 My Github Data**
 > 🏆 140 Contributions in the Year 2021
  >
-> 📦 package 439.05 MB Used in Github's Storage
+> 📦 package 434.29 MB Used in Github's Storage
  >
 > 🚫 Not Opted to Hire
  >
-> 🚪 11 Public Repositories
+> 🚪 9 Public Repositories
  >
-> 🔑 4 Pirvate Repositories
+> 🔑 2 Pirvate Repositories
  >
 
 **I'm an Early 🐤** 
@@ -41,11 +41,11 @@ pretty-profi...	1 commits	-------------------------	2.70%
 **❤ I Mostly Code in Go**
 
 ```text
-Emacs Lisp	1 repos		#------------------------	6.67%
-Go		9 repos		###############----------	60.00%
-JavaScript	2 repos		###----------------------	13.33%
-Other		2 repos		###----------------------	13.33%
-Shell		1 repos		#------------------------	6.67%
+Emacs Lisp	1 repos		##-----------------------	9.09%
+Go		5 repos		###########--------------	45.45%
+JavaScript	2 repos		####---------------------	18.18%
+Other		2 repos		####---------------------	18.18%
+Shell		1 repos		##-----------------------	9.09%
 ```
 
 **📊 This Week I Spent My Time On**
