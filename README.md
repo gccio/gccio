@@ -1,15 +1,5 @@
 <!--START_SECTION:waka-->
 
-[REQUEST: New membership for gccio](https://github.com/kubeedge/community/issues/30)
-
-[how to use a correct log level? does any docs or rules in kubeedge?](https://github.com/kubeedge/kubeedge/issues/2449)
-
-[网页使用QQ登录后出现404 Not Found](https://github.com/siyuan-note/siyuan/issues/801)
-
-[Cannot open file or directory whose name include [ or ]](https://github.com/preservim/nerdtree/issues/680)
-
-[我可以用你仓库里的gif模板吗](https://github.com/xtyxtyx/sorry/issues/81)
-
 [Menu的下拉菜单选项会被DatePicker遮盖](https://github.com/ant-design/ant-design/issues/1182)
 
 [如何禁止Form中Input的浏览器自动填充功能](https://github.com/ant-design/ant-design/issues/1913)
