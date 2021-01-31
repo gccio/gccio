@@ -1,19 +1,8 @@
 <!--START_SECTION:waka-->
-[install failed with error: ERROR: One or more files did not pass the validity check!](https://github.com/countstarlight/deepin-wine-qq-arch/issues/44)
-
-[REQUEST: New membership for gccio](https://github.com/kubeedge/community/issues/30)
-
-[how to use a correct log level? does any docs or rules in kubeedge?](https://github.com/kubeedge/kubeedge/issues/2449)
-
-[网页使用QQ登录后出现404 Not Found](https://github.com/siyuan-note/siyuan/issues/801)
-
-[Cannot open file or directory whose name include [ or ]](https://github.com/preservim/nerdtree/issues/680)
-
-
 **🐱 My Github Data**
 > 🏆 140 Contributions in the Year 2021
  >
-> 📦 package 5.50 MB Used in Github's Storage
+> 📦 package 5.51 MB Used in Github's Storage
  >
 > 🚫 Not Opted to Hire
  >
