@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data**
-> 🏆 141 Contributions in the Year 2021
+> 🏆 140 Contributions in the Year 2021
  >
-> 📦 package 472.82 MB Used in Github's Storage
+> 📦 package 439.05 MB Used in Github's Storage
  >
 > 🚫 Not Opted to Hire
  >
-> 🚪 12 Public Repositories
+> 🚪 11 Public Repositories
  >
 > 🔑 4 Pirvate Repositories
  >
@@ -41,12 +41,11 @@ pretty-profi...	1 commits	-------------------------	2.70%
 **❤ I Mostly Code in Go**
 
 ```text
-Emacs Lisp	1 repos		#------------------------	6.25%
-Go		9 repos		##############-----------	56.25%
-JavaScript	2 repos		###----------------------	12.50%
-Other		2 repos		###----------------------	12.50%
-Python		1 repos		#------------------------	6.25%
-Shell		1 repos		#------------------------	6.25%
+Emacs Lisp	1 repos		#------------------------	6.67%
+Go		9 repos		###############----------	60.00%
+JavaScript	2 repos		###----------------------	13.33%
+Other		2 repos		###----------------------	13.33%
+Shell		1 repos		#------------------------	6.67%
 ```
 
 **📊 This Week I Spent My Time On**
