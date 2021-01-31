@@ -6,7 +6,7 @@
  >
 > 🚫 Not Opted to Hire
  >
-> 🚪 9 Public Repositories
+> 🚪 6 Public Repositories
  >
 > 🔑 2 Pirvate Repositories
  >
@@ -38,14 +38,14 @@ pretty-profi...	1 commits	-------------------------	2.70%
 ```
 
 
-**❤ I Mostly Code in Go**
+**❤ I Mostly Code in JavaScript**
 
 ```text
-Emacs Lisp	1 repos		##-----------------------	9.09%
-Go		5 repos		###########--------------	45.45%
-JavaScript	2 repos		####---------------------	18.18%
-Other		2 repos		####---------------------	18.18%
-Shell		1 repos		##-----------------------	9.09%
+Emacs Lisp	1 repos		###----------------------	12.50%
+Go		2 repos		######-------------------	25.00%
+JavaScript	2 repos		######-------------------	25.00%
+Other		2 repos		######-------------------	25.00%
+Shell		1 repos		###----------------------	12.50%
 ```
 
 **📊 This Week I Spent My Time On**
