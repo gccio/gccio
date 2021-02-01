@@ -48,7 +48,7 @@ Other		2 repos		######-------------------	25.00%
 Shell		1 repos		###----------------------	12.50%
 ```
 
-**📊 This Week I Spent My Time On**
+**📊 Recently I Spent My Time On**
 ```text
 kubevirt	16 hrs 34 mins	#######------------------	30.85%
 wakatime-rea...	13 hrs 6 mins	######-------------------	24.39%
