@@ -38,7 +38,7 @@ pretty-profi...	2 commits	#------------------------	6.90%
 ```
 
 
-**❤ I Mostly Code in JavaScript、Other、Go**
+**❤ I Mostly Code in JavaScript、Go**
 
 ```text
 Emacs Lisp	1 repos		###----------------------	12.50%
