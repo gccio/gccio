@@ -13,28 +13,28 @@
 
 **I'm an Early 🐤** 
 ```text
-Morning		7 commits	####---------------------	18.92%
-Daytime		12 commits	########-----------------	32.43%
-Evening		18 commits	############-------------	48.65%
+Morning		7 commits	######-------------------	25.00%
+Daytime		4 commits	###----------------------	14.29%
+Evening		17 commits	###############----------	60.71%
 Night		0 commits	-------------------------	0.00%
 ```
 
 **📅 I'm Most Productive on Friday**
 ```text
-Monday		9 commits	######-------------------	24.32%
+Monday		0 commits	-------------------------	0.00%
 Tuesday		0 commits	-------------------------	0.00%
 Wednesday	0 commits	-------------------------	0.00%
 Thursday	0 commits	-------------------------	0.00%
-Friday		17 commits	###########--------------	45.95%
-Saturday	10 commits	######-------------------	27.03%
-Sunday		1 commits	-------------------------	2.70%
+Friday		17 commits	###############----------	60.71%
+Saturday	10 commits	########-----------------	35.71%
+Sunday		1 commits	-------------------------	3.57%
 ```
 
 **📽 I'm Most Contribute to gccio**
 ```text
-dotfiles	1 commits	-------------------------	2.70%
-gccio		35 commits	#######################--	94.59%
-pretty-profi...	1 commits	-------------------------	2.70%
+dotfiles	1 commits	-------------------------	3.57%
+gccio		26 commits	#######################--	92.86%
+pretty-profi...	1 commits	-------------------------	3.57%
 ```
 
 
