@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data**
-> 🏆 140 Contributions in the Year 2021
+> 🏆 141 Contributions in the Year 2021
  >
 > 📦 package 5.51 MB Used in Github's Storage
  >
@@ -13,32 +13,32 @@
 
 **I'm an Early 🐤** 
 ```text
-Morning		7 commits	######-------------------	25.00%
-Daytime		4 commits	###----------------------	14.29%
-Evening		17 commits	###############----------	60.71%
+Morning		8 commits	######-------------------	27.59%
+Daytime		4 commits	###----------------------	13.79%
+Evening		17 commits	##############-----------	58.62%
 Night		0 commits	-------------------------	0.00%
 ```
 
 **📅 I'm Most Productive on Friday**
 ```text
-Monday		0 commits	-------------------------	0.00%
+Monday		1 commits	-------------------------	3.45%
 Tuesday		0 commits	-------------------------	0.00%
 Wednesday	0 commits	-------------------------	0.00%
 Thursday	0 commits	-------------------------	0.00%
-Friday		17 commits	###############----------	60.71%
-Saturday	10 commits	########-----------------	35.71%
-Sunday		1 commits	-------------------------	3.57%
+Friday		17 commits	##############-----------	58.62%
+Saturday	10 commits	########-----------------	34.48%
+Sunday		1 commits	-------------------------	3.45%
 ```
 
 **📽 I'm Most Contribute to gccio**
 ```text
-dotfiles	1 commits	-------------------------	3.57%
-gccio		26 commits	#######################--	92.86%
-pretty-profi...	1 commits	-------------------------	3.57%
+dotfiles	1 commits	-------------------------	3.45%
+gccio		26 commits	######################---	89.66%
+pretty-profi...	2 commits	#------------------------	6.90%
 ```
 
 
-**❤ I Mostly Code in JavaScript**
+**❤ I Mostly Code in JavaScript、Other、Go**
 
 ```text
 Emacs Lisp	1 repos		###----------------------	12.50%
