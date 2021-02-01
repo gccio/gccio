@@ -13,28 +13,25 @@
 
 **I'm an Early 🐤** 
 ```text
-Morning		7 commits	####---------------------	18.92%
-Daytime		12 commits	########-----------------	32.43%
-Evening		18 commits	############-------------	48.65%
-Night		0 commits	-------------------------	0.00%
+Morning		0 commits	-------------------------	NaN%
+Daytime		0 commits	-------------------------	NaN%
+Evening		0 commits	-------------------------	NaN%
+Night		0 commits	-------------------------	NaN%
 ```
 
-**📅 I'm Most Productive on Friday**
+**📅 I'm Most Productive on **
 ```text
-Monday		9 commits	######-------------------	24.32%
-Tuesday		0 commits	-------------------------	0.00%
-Wednesday	0 commits	-------------------------	0.00%
-Thursday	0 commits	-------------------------	0.00%
-Friday		17 commits	###########--------------	45.95%
-Saturday	10 commits	######-------------------	27.03%
-Sunday		1 commits	-------------------------	2.70%
+Monday		0 commits	-------------------------	NaN%
+Tuesday		0 commits	-------------------------	NaN%
+Wednesday	0 commits	-------------------------	NaN%
+Thursday	0 commits	-------------------------	NaN%
+Friday		0 commits	-------------------------	NaN%
+Saturday	0 commits	-------------------------	NaN%
+Sunday		0 commits	-------------------------	NaN%
 ```
 
-**📽 I'm Most Contribute to gccio**
+**📽 I'm Most Contribute to **
 ```text
-dotfiles	1 commits	-------------------------	2.70%
-gccio		35 commits	#######################--	94.59%
-pretty-profi...	1 commits	-------------------------	2.70%
 ```
 
 
@@ -50,12 +47,13 @@ Shell		1 repos		###----------------------	12.50%
 
 **📊 This Week I Spent My Time On**
 ```text
-wakatime-rea...	19 hrs 56 mins	########-----------------	35.63%
-kubevirt	16 hrs 34 mins	#######------------------	29.64%
-containerize...	11 hrs 43 mins	#####--------------------	20.95%
-kubernetes	2 hrs 12 mins	-------------------------	3.95%
-pretty-profi...	1 hr 49 mins	-------------------------	3.28%
-.dotfiles	1 hr		-------------------------	1.79%
+kubevirt	16 hrs 34 mins	#######------------------	30.85%
+wakatime-rea...	13 hrs 6 mins	######-------------------	24.39%
+containerize...	11 hrs 43 mins	#####--------------------	21.80%
+pretty-profi...	6 hrs 1 min	##-----------------------	11.23%
+kubernetes	2 hrs 12 mins	#------------------------	4.11%
+.dotfiles	1 hr 3 mins	-------------------------	1.98%
+kubeedge	24 mins		-------------------------	0.76%
 ```
 
 <!--END_SECTION:waka-->
