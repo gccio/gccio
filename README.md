@@ -1,8 +1,8 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data**
-> 🏆 141 Contributions in the Year 2021
+> 🏆 143 Contributions in the Year 2021
  >
-> 📦 package 5.51 MB Used in Github's Storage
+> 📦 package 5.52 MB Used in Github's Storage
  >
 > 🚫 Not Opted to Hire
  >
@@ -13,32 +13,30 @@
 
 **I'm an Early 🐤** 
 ```text
-Morning		8 commits	######-------------------	27.59%
-Daytime		4 commits	###----------------------	13.79%
-Evening		17 commits	##############-----------	58.62%
+Morning		2 commits	#########################	100.00%
+Daytime		0 commits	-------------------------	0.00%
+Evening		0 commits	-------------------------	0.00%
 Night		0 commits	-------------------------	0.00%
 ```
 
-**📅 I'm Most Productive on Friday**
+**📅 I'm Most Productive on Monday**
 ```text
-Monday		1 commits	-------------------------	3.45%
+Monday		2 commits	#########################	100.00%
 Tuesday		0 commits	-------------------------	0.00%
 Wednesday	0 commits	-------------------------	0.00%
 Thursday	0 commits	-------------------------	0.00%
-Friday		17 commits	##############-----------	58.62%
-Saturday	10 commits	########-----------------	34.48%
-Sunday		1 commits	-------------------------	3.45%
+Friday		0 commits	-------------------------	0.00%
+Saturday	0 commits	-------------------------	0.00%
+Sunday		0 commits	-------------------------	0.00%
 ```
 
-**📽 I'm Most Contribute to gccio**
+**📽 I'm Most Contribute to pretty-profile-readme**
 ```text
-dotfiles	1 commits	-------------------------	3.45%
-gccio		26 commits	######################---	89.66%
-pretty-profi...	2 commits	#------------------------	6.90%
+pretty-profi...	2 commits	#########################	100.00%
 ```
 
 
-**❤ I Mostly Code in JavaScript、Go**
+**❤ I Mostly Code in JavaScript**
 
 ```text
 Emacs Lisp	1 repos		###----------------------	12.50%
@@ -48,15 +46,15 @@ Other		2 repos		######-------------------	25.00%
 Shell		1 repos		###----------------------	12.50%
 ```
 
-**📊 Recently I Spent My Time On**
+**📊 This Week I Spent My Time On**
 ```text
-kubevirt	16 hrs 34 mins	#######------------------	30.85%
-wakatime-rea...	13 hrs 6 mins	######-------------------	24.39%
-containerize...	11 hrs 43 mins	#####--------------------	21.80%
-pretty-profi...	6 hrs 1 min	##-----------------------	11.23%
-kubernetes	2 hrs 12 mins	#------------------------	4.11%
-.dotfiles	1 hr 3 mins	-------------------------	1.98%
-kubeedge	24 mins		-------------------------	0.76%
+kubevirt	13 hrs 59 mins	######-------------------	25.00%
+containerize...	11 hrs 58 mins	#####--------------------	21.39%
+pretty-profi...	10 hrs 13 mins	####---------------------	18.26%
+wakatime-rea...	8 hrs 21 mins	###----------------------	14.93%
+kubernetes	7 hrs 19 mins	###----------------------	13.10%
+.dotfiles	1 hr 3 mins	-------------------------	1.90%
+kubeedge	24 mins		-------------------------	0.73%
 ```
 
 <!--END_SECTION:waka-->
