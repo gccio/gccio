@@ -13,30 +13,32 @@
 
 **I'm an Early 🐤** 
 ```text
-Morning		2 commits	#########################	100.00%
-Daytime		0 commits	-------------------------	0.00%
-Evening		0 commits	-------------------------	0.00%
+Morning		9 commits	#######------------------	30.00%
+Daytime		4 commits	###----------------------	13.33%
+Evening		17 commits	##############-----------	56.67%
 Night		0 commits	-------------------------	0.00%
 ```
 
-**📅 I'm Most Productive on Monday**
+**📅 I'm Most Productive on Friday**
 ```text
-Monday		2 commits	#########################	100.00%
+Monday		2 commits	#------------------------	6.67%
 Tuesday		0 commits	-------------------------	0.00%
 Wednesday	0 commits	-------------------------	0.00%
 Thursday	0 commits	-------------------------	0.00%
-Friday		0 commits	-------------------------	0.00%
-Saturday	0 commits	-------------------------	0.00%
-Sunday		0 commits	-------------------------	0.00%
+Friday		17 commits	##############-----------	56.67%
+Saturday	10 commits	########-----------------	33.33%
+Sunday		1 commits	-------------------------	3.33%
 ```
 
-**📽 I'm Most Contribute to pretty-profile-readme**
+**📽 I'm Most Contribute to gccio**
 ```text
-pretty-profi...	2 commits	#########################	100.00%
+dotfiles	1 commits	-------------------------	3.33%
+gccio		26 commits	#####################----	86.67%
+pretty-profi...	3 commits	##-----------------------	10.00%
 ```
 
 
-**❤ I Mostly Code in JavaScript**
+**❤ I Mostly Code in JavaScript、Go**
 
 ```text
 Emacs Lisp	1 repos		###----------------------	12.50%
@@ -46,7 +48,7 @@ Other		2 repos		######-------------------	25.00%
 Shell		1 repos		###----------------------	12.50%
 ```
 
-**📊 This Week I Spent My Time On**
+**📊 Recently I Spent My Time On**
 ```text
 containerize...	15 hrs 45 mins	######-------------------	26.93%
 pretty-profi...	10 hrs 13 mins	####---------------------	17.47%
