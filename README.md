@@ -2,7 +2,7 @@
 **🐱 My Github Data**
 > 🏆 145 Contributions in the Year 2021
  >
-> 📦 package 5.52 MB Used in Github's Storage
+> 📦 package 5.53 MB Used in Github's Storage
  >
 > 🚫 Not Opted to Hire
  >
@@ -48,13 +48,13 @@ Shell		1 repos		###----------------------	12.50%
 
 **📊 This Week I Spent My Time On**
 ```text
-containerize...	16 hrs 21 mins	#######------------------	29.88%
-pretty-profi...	10 hrs 13 mins	####---------------------	18.66%
-wakatime-rea...	7 hrs 48 mins	###----------------------	14.25%
-kubernetes	7 hrs 29 mins	###----------------------	13.67%
-kubevirt	6 hrs 8 mins	##-----------------------	11.20%
-kubeedge	5 hrs 46 mins	##-----------------------	10.55%
-.dotfiles	3 mins		-------------------------	0.11%
+containerize...	17 hrs 21 mins	########-----------------	35.59%
+pretty-profi...	10 hrs 13 mins	#####--------------------	20.96%
+wakatime-rea...	6 hrs 30 mins	###----------------------	13.35%
+kubeedge	5 hrs 46 mins	##-----------------------	11.86%
+kubernetes	5 hrs 16 mins	##-----------------------	10.83%
+kubevirt	3 hrs 25 mins	#------------------------	7.04%
+.dotfiles	3 mins		-------------------------	0.13%
 ```
 
 <!--END_SECTION:waka-->
