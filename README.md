@@ -2,7 +2,7 @@
 **🐱 My Github Data**
 > 🏆 146 Contributions in the Year 2021
  >
-> 📦 package 5.53 MB Used in Github's Storage
+> 📦 package 5.54 MB Used in Github's Storage
  >
 > 🚫 Not Opted to Hire
  >
@@ -47,12 +47,12 @@ Shell		1 repos		###----------------------	12.50%
 
 **📊 This Week I Spent My Time On**
 ```text
-kubernetes	14 hrs 58 mins	############-------------	50.00%
-prometheus_e...	7 hrs 26 mins	######-------------------	24.82%
-kubevirt	5 hrs 5 mins	####---------------------	16.97%
-containerize...	1 hr 18 mins	#------------------------	4.35%
-kubeedge	44 mins		-------------------------	2.48%
-client-go	15 mins		-------------------------	0.85%
+kubernetes	14 hrs 58 mins	############-------------	51.29%
+prometheus_e...	6 hrs 41 mins	#####--------------------	22.89%
+kubevirt	5 hrs 5 mins	####---------------------	17.41%
+containerize...	1 hr 18 mins	#------------------------	4.46%
+kubeedge	44 mins		-------------------------	2.54%
+client-go	15 mins		-------------------------	0.87%
 ```
 
 <!--END_SECTION:waka-->
