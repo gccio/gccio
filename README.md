@@ -47,11 +47,11 @@ Shell		1 repos		###----------------------	12.50%
 
 **📊 This Week I Spent My Time On**
 ```text
-kubernetes	13 hrs		###############----------	62.71%
-kubevirt	5 hrs 5 mins	######-------------------	24.52%
-containerize...	1 hr 18 mins	#------------------------	6.28%
-prometheus_e...	56 mins		#------------------------	4.50%
-client-go	15 mins		-------------------------	1.23%
+kubernetes	11 hrs 16 mins	#####################----	85.27%
+prometheus_e...	56 mins		#------------------------	7.06%
+kubevirt	27 mins		-------------------------	3.46%
+containerize...	18 mins		-------------------------	2.28%
+client-go	15 mins		-------------------------	1.93%
 ```
 
 <!--END_SECTION:waka-->
