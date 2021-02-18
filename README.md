@@ -47,8 +47,8 @@ Shell		1 repos		###----------------------	12.50%
 
 **📊 This Week I Spent My Time On**
 ```text
-kubernetes	4 hrs 21 mins	####################-----	81.92%
-prometheus_e...	57 mins		####---------------------	18.08%
+kubernetes	2 hrs 16 mins	######################---	90.51%
+prometheus_e...	14 mins		##-----------------------	9.49%
 ```
 
 <!--END_SECTION:waka-->
