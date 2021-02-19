@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data**
-> 🏆 146 Contributions in the Year 2021
+> 🏆 147 Contributions in the Year 2021
  >
 > 📦 package 5.54 MB Used in Github's Storage
  >
@@ -13,25 +13,26 @@
 
 **I'm an Early 🐤** 
 ```text
-Morning		0 commits	-------------------------	NaN%
-Daytime		0 commits	-------------------------	NaN%
-Evening		0 commits	-------------------------	NaN%
-Night		0 commits	-------------------------	NaN%
+Morning		1 commits	#########################	100.00%
+Daytime		0 commits	-------------------------	0.00%
+Evening		0 commits	-------------------------	0.00%
+Night		0 commits	-------------------------	0.00%
 ```
 
-**📅 I'm Most Productive on **
+**📅 I'm Most Productive on Thursday**
 ```text
-Monday		0 commits	-------------------------	NaN%
-Tuesday		0 commits	-------------------------	NaN%
-Wednesday	0 commits	-------------------------	NaN%
-Thursday	0 commits	-------------------------	NaN%
-Friday		0 commits	-------------------------	NaN%
-Saturday	0 commits	-------------------------	NaN%
-Sunday		0 commits	-------------------------	NaN%
+Monday		0 commits	-------------------------	0.00%
+Tuesday		0 commits	-------------------------	0.00%
+Wednesday	0 commits	-------------------------	0.00%
+Thursday	1 commits	#########################	100.00%
+Friday		0 commits	-------------------------	0.00%
+Saturday	0 commits	-------------------------	0.00%
+Sunday		0 commits	-------------------------	0.00%
 ```
 
-**📽 I'm Most Contribute to **
+**📽 I'm Most Contribute to dotfiles**
 ```text
+dotfiles	1 commits	#########################	100.00%
 ```
 
 
@@ -47,8 +48,11 @@ Shell		1 repos		###----------------------	12.50%
 
 **📊 This Week I Spent My Time On**
 ```text
-kubernetes	2 hrs 16 mins	######################---	90.51%
-prometheus_e...	14 mins		##-----------------------	9.49%
+kubernetes	10 hrs 48 mins	########################-	96.25%
+prometheus_e...	14 mins		-------------------------	2.13%
+containerize...	2 mins		-------------------------	0.31%
+kubevirt	1 min		-------------------------	0.29%
+.dotfiles	0 secs		-------------------------	0.07%
 ```
 
 <!--END_SECTION:waka-->
