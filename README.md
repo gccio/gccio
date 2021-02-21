@@ -1,58 +1,59 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data**
-> 🏆 147 Contributions in the Year 2021
+> 🏆 153 Contributions in the Year 2021
  >
-> 📦 package 5.54 MB Used in Github's Storage
+> 📦 package 628.19 MB Used in Github's Storage
  >
 > 🚫 Not Opted to Hire
  >
 > 🚪 6 Public Repositories
  >
-> 🔑 2 Pirvate Repositories
+> 🔑 3 Pirvate Repositories
  >
 
 **I'm an Early 🐤** 
 ```text
-Morning		1 commits	#########################	100.00%
-Daytime		0 commits	-------------------------	0.00%
-Evening		0 commits	-------------------------	0.00%
+Morning		2 commits	########-----------------	33.33%
+Daytime		1 commits	####---------------------	16.67%
+Evening		3 commits	############-------------	50.00%
 Night		0 commits	-------------------------	0.00%
 ```
 
-**📅 I'm Most Productive on Thursday**
+**📅 I'm Most Productive on Friday**
 ```text
 Monday		0 commits	-------------------------	0.00%
 Tuesday		0 commits	-------------------------	0.00%
-Wednesday	0 commits	-------------------------	0.00%
-Thursday	1 commits	#########################	100.00%
-Friday		0 commits	-------------------------	0.00%
-Saturday	0 commits	-------------------------	0.00%
+Wednesday	1 commits	####---------------------	16.67%
+Thursday	1 commits	####---------------------	16.67%
+Friday		3 commits	############-------------	50.00%
+Saturday	1 commits	####---------------------	16.67%
 Sunday		0 commits	-------------------------	0.00%
 ```
 
-**📽 I'm Most Contribute to dotfiles**
+**📽 I'm Most Contribute to kubernetes-mirror**
 ```text
-dotfiles	1 commits	#########################	100.00%
+dotfiles	1 commits	####---------------------	16.67%
+kubernetes-m...	5 commits	####################-----	83.33%
 ```
 
 
-**❤ I Mostly Code in JavaScript**
+**❤ I Mostly Code in Go**
 
 ```text
-Emacs Lisp	1 repos		###----------------------	12.50%
-Go		2 repos		######-------------------	25.00%
-JavaScript	2 repos		######-------------------	25.00%
-Other		2 repos		######-------------------	25.00%
-Shell		1 repos		###----------------------	12.50%
+Emacs Lisp	1 repos		##-----------------------	11.11%
+Go		3 repos		########-----------------	33.33%
+JavaScript	2 repos		#####--------------------	22.22%
+Other		2 repos		#####--------------------	22.22%
+Shell		1 repos		##-----------------------	11.11%
 ```
 
 **📊 This Week I Spent My Time On**
 ```text
-kubernetes	18 hrs 34 mins	########################-	97.43%
-prometheus_e...	14 mins		-------------------------	1.26%
-client-go	2 mins		-------------------------	0.21%
-containerize...	2 mins		-------------------------	0.18%
-kubevirt	1 min		-------------------------	0.17%
+kubernetes	24 hrs 52 mins	#######################--	92.05%
+containerize...	1 hr 41 mins	#------------------------	6.26%
+prometheus_e...	14 mins		-------------------------	0.89%
+client-go	2 mins		-------------------------	0.15%
+kubevirt	1 min		-------------------------	0.12%
 .dotfiles	0 secs		-------------------------	0.04%
 ```
 
