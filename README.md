@@ -13,27 +13,25 @@
 
 **I'm an Early 🐤** 
 ```text
-Morning		2 commits	########-----------------	33.33%
-Daytime		1 commits	####---------------------	16.67%
-Evening		3 commits	############-------------	50.00%
-Night		0 commits	-------------------------	0.00%
+Morning		0 commits	-------------------------	NaN%
+Daytime		0 commits	-------------------------	NaN%
+Evening		0 commits	-------------------------	NaN%
+Night		0 commits	-------------------------	NaN%
 ```
 
-**📅 I'm Most Productive on Friday**
+**📅 I'm Most Productive on **
 ```text
-Monday		0 commits	-------------------------	0.00%
-Tuesday		0 commits	-------------------------	0.00%
-Wednesday	1 commits	####---------------------	16.67%
-Thursday	1 commits	####---------------------	16.67%
-Friday		3 commits	############-------------	50.00%
-Saturday	1 commits	####---------------------	16.67%
-Sunday		0 commits	-------------------------	0.00%
+Monday		0 commits	-------------------------	NaN%
+Tuesday		0 commits	-------------------------	NaN%
+Wednesday	0 commits	-------------------------	NaN%
+Thursday	0 commits	-------------------------	NaN%
+Friday		0 commits	-------------------------	NaN%
+Saturday	0 commits	-------------------------	NaN%
+Sunday		0 commits	-------------------------	NaN%
 ```
 
-**📽 I'm Most Contribute to kubernetes-mirror**
+**📽 I'm Most Contribute to **
 ```text
-dotfiles	1 commits	####---------------------	16.67%
-kubernetes-m...	5 commits	####################-----	83.33%
 ```
 
 
@@ -49,11 +47,11 @@ Shell		1 repos		##-----------------------	11.11%
 
 **📊 This Week I Spent My Time On**
 ```text
-kubernetes	24 hrs 52 mins	#######################--	92.05%
-containerize...	1 hr 41 mins	#------------------------	6.26%
-prometheus_e...	14 mins		-------------------------	0.89%
-client-go	2 mins		-------------------------	0.15%
-kubevirt	1 min		-------------------------	0.12%
+kubernetes	24 hrs 52 mins	#####################----	84.97%
+containerize...	3 hrs 56 mins	###----------------------	13.47%
+prometheus_e...	14 mins		-------------------------	0.82%
+client-go	2 mins		-------------------------	0.14%
+kubevirt	1 min		-------------------------	0.11%
 .dotfiles	0 secs		-------------------------	0.04%
 ```
 
