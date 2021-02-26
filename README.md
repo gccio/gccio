@@ -1,8 +1,8 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data**
-> 🏆 155 Contributions in the Year 2021
+> 🏆 156 Contributions in the Year 2021
  >
-> 📦 package 628.22 MB Used in Github's Storage
+> 📦 package 628.46 MB Used in Github's Storage
  >
 > 🚫 Not Opted to Hire
  >
@@ -14,17 +14,17 @@
 **I'm an Early 🐤** 
 ```text
 Morning		0 commits	-------------------------	0.00%
-Daytime		0 commits	-------------------------	0.00%
-Evening		2 commits	#########################	100.00%
+Daytime		1 commits	########-----------------	33.33%
+Evening		2 commits	################---------	66.67%
 Night		0 commits	-------------------------	0.00%
 ```
 
-**📅 I'm Most Productive on Wednesday**
+**📅 I'm Most Productive on Thursday**
 ```text
 Monday		0 commits	-------------------------	0.00%
-Tuesday		1 commits	############-------------	50.00%
-Wednesday	1 commits	############-------------	50.00%
-Thursday	0 commits	-------------------------	0.00%
+Tuesday		1 commits	########-----------------	33.33%
+Wednesday	1 commits	########-----------------	33.33%
+Thursday	1 commits	########-----------------	33.33%
 Friday		0 commits	-------------------------	0.00%
 Saturday	0 commits	-------------------------	0.00%
 Sunday		0 commits	-------------------------	0.00%
@@ -32,7 +32,7 @@ Sunday		0 commits	-------------------------	0.00%
 
 **📽 I'm Most Contribute to kubernetes-mirror**
 ```text
-kubernetes-m...	2 commits	#########################	100.00%
+kubernetes-m...	3 commits	#########################	100.00%
 ```
 
 
@@ -48,13 +48,13 @@ Shell		1 repos		##-----------------------	11.11%
 
 **📊 This Week I Spent My Time On**
 ```text
-kubernetes	34 hrs 38 mins	###################------	77.36%
-containerize...	7 hrs 34 mins	####---------------------	16.92%
-kubevirt	34 mins		-------------------------	1.28%
-prometheus_e...	7 mins		-------------------------	0.28%
-kubeedge	7 mins		-------------------------	0.28%
+kubernetes	33 hrs 2 mins	###################------	76.85%
+containerize...	7 hrs 32 mins	####---------------------	17.54%
+kubevirt	32 mins		-------------------------	1.26%
+prometheus_e...	7 mins		-------------------------	0.30%
+kubeedge	7 mins		-------------------------	0.29%
 client-go	2 mins		-------------------------	0.09%
-.dotfiles	0 secs		-------------------------	0.02%
+.dotfiles	0 secs		-------------------------	0.01%
 ```
 
 <!--END_SECTION:waka-->
