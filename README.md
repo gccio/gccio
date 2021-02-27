@@ -48,12 +48,11 @@ Shell		1 repos		##-----------------------	11.11%
 
 **📊 This Week I Spent My Time On**
 ```text
-kubernetes	33 hrs 2 mins	###################------	76.85%
-containerize...	7 hrs 32 mins	####---------------------	17.54%
+kubernetes	32 hrs 57 mins	###################------	76.93%
+containerize...	7 hrs 32 mins	####---------------------	17.60%
 kubevirt	32 mins		-------------------------	1.26%
 prometheus_e...	7 mins		-------------------------	0.30%
 kubeedge	7 mins		-------------------------	0.29%
-client-go	2 mins		-------------------------	0.09%
 .dotfiles	0 secs		-------------------------	0.01%
 ```
 
