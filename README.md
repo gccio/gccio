@@ -13,26 +13,25 @@
 
 **I'm an Early 🐤** 
 ```text
-Morning		0 commits	-------------------------	0.00%
-Daytime		1 commits	########-----------------	33.33%
-Evening		2 commits	################---------	66.67%
-Night		0 commits	-------------------------	0.00%
+Morning		0 commits	-------------------------	NaN%
+Daytime		0 commits	-------------------------	NaN%
+Evening		0 commits	-------------------------	NaN%
+Night		0 commits	-------------------------	NaN%
 ```
 
-**📅 I'm Most Productive on Thursday**
+**📅 I'm Most Productive on **
 ```text
-Monday		0 commits	-------------------------	0.00%
-Tuesday		1 commits	########-----------------	33.33%
-Wednesday	1 commits	########-----------------	33.33%
-Thursday	1 commits	########-----------------	33.33%
-Friday		0 commits	-------------------------	0.00%
-Saturday	0 commits	-------------------------	0.00%
-Sunday		0 commits	-------------------------	0.00%
+Monday		0 commits	-------------------------	NaN%
+Tuesday		0 commits	-------------------------	NaN%
+Wednesday	0 commits	-------------------------	NaN%
+Thursday	0 commits	-------------------------	NaN%
+Friday		0 commits	-------------------------	NaN%
+Saturday	0 commits	-------------------------	NaN%
+Sunday		0 commits	-------------------------	NaN%
 ```
 
-**📽 I'm Most Contribute to kubernetes-mirror**
+**📽 I'm Most Contribute to **
 ```text
-kubernetes-m...	3 commits	#########################	100.00%
 ```
 
 
@@ -48,11 +47,11 @@ Shell		1 repos		##-----------------------	11.11%
 
 **📊 This Week I Spent My Time On**
 ```text
-kubernetes	26 hrs 39 mins	###################------	76.42%
-containerize...	5 hrs 53 mins	####---------------------	16.87%
-kubevirt	32 mins		-------------------------	1.55%
-prometheus_e...	7 mins		-------------------------	0.36%
-kubeedge	7 mins		-------------------------	0.36%
+kubernetes	26 hrs 39 mins	####################-----	81.69%
+containerize...	3 hrs 38 mins	##-----------------------	11.14%
+kubevirt	32 mins		-------------------------	1.66%
+prometheus_e...	7 mins		-------------------------	0.39%
+kubeedge	7 mins		-------------------------	0.38%
 ```
 
 <!--END_SECTION:waka-->
