@@ -1,8 +1,8 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data**
-> 🏆 156 Contributions in the Year 2021
+> 🏆 158 Contributions in the Year 2021
  >
-> 📦 package 628.46 MB Used in Github's Storage
+> 📦 package 628.52 MB Used in Github's Storage
  >
 > 🚫 Not Opted to Hire
  >
@@ -13,25 +13,26 @@
 
 **I'm an Early 🐤** 
 ```text
-Morning		0 commits	-------------------------	NaN%
-Daytime		0 commits	-------------------------	NaN%
-Evening		0 commits	-------------------------	NaN%
-Night		0 commits	-------------------------	NaN%
+Morning		0 commits	-------------------------	0.00%
+Daytime		1 commits	############-------------	50.00%
+Evening		1 commits	############-------------	50.00%
+Night		0 commits	-------------------------	0.00%
 ```
 
-**📅 I'm Most Productive on **
+**📅 I'm Most Productive on Monday**
 ```text
-Monday		0 commits	-------------------------	NaN%
-Tuesday		0 commits	-------------------------	NaN%
-Wednesday	0 commits	-------------------------	NaN%
-Thursday	0 commits	-------------------------	NaN%
-Friday		0 commits	-------------------------	NaN%
-Saturday	0 commits	-------------------------	NaN%
-Sunday		0 commits	-------------------------	NaN%
+Monday		2 commits	#########################	100.00%
+Tuesday		0 commits	-------------------------	0.00%
+Wednesday	0 commits	-------------------------	0.00%
+Thursday	0 commits	-------------------------	0.00%
+Friday		0 commits	-------------------------	0.00%
+Saturday	0 commits	-------------------------	0.00%
+Sunday		0 commits	-------------------------	0.00%
 ```
 
-**📽 I'm Most Contribute to **
+**📽 I'm Most Contribute to kubernetes-mirror**
 ```text
+kubernetes-m...	2 commits	#########################	100.00%
 ```
 
 
@@ -47,11 +48,10 @@ Shell		1 repos		##-----------------------	11.11%
 
 **📊 This Week I Spent My Time On**
 ```text
-kubernetes	26 hrs 39 mins	####################-----	81.69%
-containerize...	3 hrs 38 mins	##-----------------------	11.14%
-kubevirt	32 mins		-------------------------	1.66%
-prometheus_e...	7 mins		-------------------------	0.39%
-kubeedge	7 mins		-------------------------	0.38%
+kubernetes	32 hrs 33 mins	#######################--	93.30%
+kubevirt	32 mins		-------------------------	1.55%
+prometheus_e...	7 mins		-------------------------	0.36%
+containerize...	7 mins		-------------------------	0.35%
 ```
 
 <!--END_SECTION:waka-->
