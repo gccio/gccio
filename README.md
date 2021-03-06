@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data**
-> 🏆 163 Contributions in the Year 2021
+> 🏆 164 Contributions in the Year 2021
  >
 > 📦 package 628.29 MB Used in Github's Storage
  >
@@ -19,13 +19,13 @@ Evening		1 commits	#########################	100.00%
 Night		0 commits	-------------------------	0.00%
 ```
 
-**📅 I'm Most Productive on Thursday**
+**📅 I'm Most Productive on Friday**
 ```text
 Monday		0 commits	-------------------------	0.00%
 Tuesday		0 commits	-------------------------	0.00%
 Wednesday	0 commits	-------------------------	0.00%
-Thursday	1 commits	#########################	100.00%
-Friday		0 commits	-------------------------	0.00%
+Thursday	0 commits	-------------------------	0.00%
+Friday		1 commits	#########################	100.00%
 Saturday	0 commits	-------------------------	0.00%
 Sunday		0 commits	-------------------------	0.00%
 ```
