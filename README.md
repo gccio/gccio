@@ -1,8 +1,8 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data**
-> 🏆 170 Contributions in the Year 2021
+> 🏆 174 Contributions in the Year 2021
  >
-> 📦 package 628.26 MB Used in Github's Storage
+> 📦 package 628.29 MB Used in Github's Storage
  >
 > 🚫 Not Opted to Hire
  >
@@ -13,26 +13,27 @@
 
 **I'm an Early 🐤** 
 ```text
-Morning		2 commits	############-------------	50.00%
-Daytime		0 commits	-------------------------	0.00%
-Evening		2 commits	############-------------	50.00%
+Morning		0 commits	-------------------------	0.00%
+Daytime		1 commits	######-------------------	25.00%
+Evening		3 commits	##################-------	75.00%
 Night		0 commits	-------------------------	0.00%
 ```
 
-**📅 I'm Most Productive on Thursday**
+**📅 I'm Most Productive on Friday**
 ```text
 Monday		0 commits	-------------------------	0.00%
 Tuesday		0 commits	-------------------------	0.00%
-Wednesday	1 commits	######-------------------	25.00%
-Thursday	3 commits	##################-------	75.00%
-Friday		0 commits	-------------------------	0.00%
+Wednesday	0 commits	-------------------------	0.00%
+Thursday	0 commits	-------------------------	0.00%
+Friday		4 commits	#########################	100.00%
 Saturday	0 commits	-------------------------	0.00%
 Sunday		0 commits	-------------------------	0.00%
 ```
 
 **📽 I'm Most Contribute to kubernetes-mirror**
 ```text
-kubernetes-m...	4 commits	#########################	100.00%
+dotfiles	1 commits	######-------------------	25.00%
+kubernetes-m...	3 commits	##################-------	75.00%
 ```
 
 
@@ -48,7 +49,9 @@ Shell		1 repos		##-----------------------	11.11%
 
 **📊 This Week I Spent My Time On**
 ```text
-kubernetes	38 hrs 32 mins	#########################	100.00%
+kubernetes	39 hrs 5 mins	########################-	99.71%
+kubernetes-m...	4 mins		-------------------------	0.20%
+.dotfiles	2 mins		-------------------------	0.09%
 ```
 
 <!--END_SECTION:waka-->
