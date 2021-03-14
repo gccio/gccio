@@ -49,8 +49,8 @@ Shell		1 repos		##-----------------------	11.11%
 
 **📊 This Week I Spent My Time On**
 ```text
-kubernetes	39 hrs 5 mins	########################-	99.71%
-kubernetes-m...	4 mins		-------------------------	0.20%
+kubernetes	39 hrs 5 mins	########################-	98.65%
+kubernetes-m...	30 mins		-------------------------	1.26%
 .dotfiles	2 mins		-------------------------	0.09%
 ```
 
